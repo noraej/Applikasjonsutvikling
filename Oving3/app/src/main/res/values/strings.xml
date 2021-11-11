@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Oving3</string>
+    <string name="name_tag">Navn: </string>
+    <string name="phone_number">Telefonnummer: </string>
+</resources>
